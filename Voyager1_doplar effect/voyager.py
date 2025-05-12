@@ -29,4 +29,3 @@ divisible = 1 / drift_rate_per_cell
 print("divisible:", divisible)
 
 
-
